@@ -1,5 +1,7 @@
 # Binder Test
 
-This is a test of Binder.
+This is a test of BinderHub.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yangli0516/binder-test.git/HEAD)
+The BinderHub instance is provided by [ARDC](https://ardc.edu.au/article/introducing-the-ardc-binderhub-service-for-researchers/)
+
+[![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/yangli0516/binder-test.git/HEAD?labpath=test.ipynb)
